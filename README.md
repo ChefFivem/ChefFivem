@@ -59,4 +59,4 @@ Minecraft :
 
 ---
 
-[discord]: https://discord.gg/Ksyc97N
+[discord]: https://discord.gg/QwpvYAM
