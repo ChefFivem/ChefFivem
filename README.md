@@ -41,9 +41,15 @@ Other:
 - ⚒️ • 🎭 • [Rubylium's Framework](https://github.com/Rubylium/rFw)
 
 FiveM :
-- ✅ • 🎭 [RedSideV6](http://redsiderp.eu/)
-- 🎭 [Greed-Island](https://greedisland.game-srv.com/) 
-- 🎭 Solaria RolePlay 
+- ✅ • 🎭 [ChefShop](https://www.chefshop5m.fr/)
+- 🎭 [Blue city rp](https://www.chefshop5m.fr/blue.html/) 
+- 🎭 Sin City RP
+- 🎭 Micro City
+- 🎭 Corona City
+- 🎭 Your City
+- 🎭 Red City Rp
+- 🎭 School
+- 🎭 Blue City V2
 
 Minecraft : 
 - 🎊 • PoudlardRP
