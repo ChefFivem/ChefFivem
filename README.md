@@ -1,6 +1,6 @@
 ### Hey! I'm Pablo Z.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Pablo1610_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ChefFivem)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ChefFivem?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ChefFivem)
 
 ## I'm a student
  
