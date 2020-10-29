@@ -38,6 +38,7 @@ I would like to become a fullstack developer
 
 Other:
 - ⚒️ • My portfolio
+- ⚒️ • 🎭 • Chef Core
 
 FiveM :
 - ✅ • 🎭 [ChefShop](https://www.chefshop5m.fr/)
