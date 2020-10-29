@@ -51,10 +51,6 @@ FiveM :
 - 🎭 School
 - 🎭 Blue City V2
 
-Minecraft : 
-- 🎊 • PoudlardRP
-- 🎊 • LifeCraftV2
-- 🎊 • EvoGames
 <!--END_SECTION:activity-->
 
 
