@@ -26,9 +26,9 @@ I would like to become a fullstack developer
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChefFivem&count_private=true&show_icons=true?theme=buefy)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChefFivem)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChefFivem)](https://github.com/ChefFivem/ChefFivem)
 <br />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChefFivem&hide_progress=true)](https://github.com/ChefFivem/chef_store)
 <br />
 
 
