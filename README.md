@@ -1,38 +1,5 @@
 ### Hey! I'm ChefFivem.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ChefFivem?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ChefFivem)
-
-## I'm a student
- 
-I would like to become a fullstack developer
-  
-<br />
-
-## My knowledges
-
-- ⚒️ Java, I mainly use it to create Discord bots.
-- ⚒️ Lua, used a lot on the FiveM platform to make scripts.
-- ⚒️ SQL, used to perform database request.
-
-### Connect with me:
-
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
-<br />
-
-### My favourites programming languages
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChefFivem&count_private=true&show_icons=true?theme=buefy)
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChefFivem)](https://github.com/ChefFivem/ChefFivem)
-<br />
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=ChefFivem&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<br />
-
-
-
 ## Last Repost
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChefFivem&repo=chef_store)](https://github.com/ChefFivem/chef_store)
