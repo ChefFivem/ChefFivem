@@ -1,23 +1,18 @@
 ### Hey! I'm ChefFivem.
 
-## Last Repost
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChefFivem&repo=chef_store)](https://github.com/ChefFivem/chef_store)
-
 ### My projets
 
 <br />
 
-<!--START_SECTION:activity-->
 - ✅ • Actual
-- ⚒️ • WiP
+- ✅ • WiP
 
 Other:
 - ⚒️ • My portfolio
-- ⚒️ • 🎭 • Chef Core
+- ⚒️ • Chef Shop
 
 FiveM :
-- ✅ • 🎭 [ChefShop](https://www.chefshop5m.fr/)
+- ✅ • 🎭 [ChefShop](https://www.chefshop5m.myshopify.com/)
 - 🎭 Blue City
 - 🎭 Unity Rp
 - 🎭 Sin City RP
