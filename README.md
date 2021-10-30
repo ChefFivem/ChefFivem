@@ -12,9 +12,8 @@ Other:
 - ⚒️ • Chef Shop
 
 FiveM :
-- ✅ • 🎭 [ChefShop](https://chefshop5m.myshopify.com/)
+- ✅ • 🎭 ChefShop
 - 🎭 Blue City
-- 🎭 Unity Rp
 - 🎭 Unity Rp
 - 🎭 Sin City RP
 - 🎭 Micro City
