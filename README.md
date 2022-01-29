@@ -10,6 +10,7 @@
 Other:
 - ⚒️ • My portfolio
 - ⚒️ • Chef Shop
+- ⚒️ • Bloc de dev
 
 FiveM :
 - ✅ • 🎭 Bloc de dev
