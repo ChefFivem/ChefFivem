@@ -1,8 +1,8 @@
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/469576419048030218)](https://discord.com/users/469576419048030218)
+
 ### Hey! I'm ChefFivem.
 
 ### My projets
-
-<br />
 
 - ✅ • Actual
 - ✅ • WiP
@@ -26,15 +26,4 @@ FiveM :
 - 🎭 Blue City V2
 - 🎭 Blow Rp
 
-
-<!--END_SECTION:activity-->
-
-
-<br />
-
-<br />
-<br />
-
 ---
-
-[discord]: https://discord.gg/QwpvYAM
