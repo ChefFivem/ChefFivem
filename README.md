@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [cWebsite](https://cheffivem.fr/)
 
-- 👨‍💻 All of my projects are available at [comming soon](comming soon)
+- 👨‍💻 All of my projects are available at comming soon
 
 - 💬 Ask me about **Js, Py, Html, Css, C#, Lua, Tsx**
 
