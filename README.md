@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm cheffivem</h1>
 <h3 align="center">A passionate developer from Belguim</h3>
 
-- 🔭 I’m currently working on [cBot](https://github.cheffivem.fr/)
+- 🔭 I’m currently working on [cBot](https://github.com/cheffivem)
 
 - 🌱 I’m work in **const language = require('Js'); | try: print('py') | <a href="cheffivem">Html</a> | text-decoration: css; | export default function chef() {TSX} | if language == "Lua" then | namespace C#:**
 
-- 👯 I’m currently working on [cFivem](https://github.cheffivem.fr/)
+- 👯 I’m currently working on [cFivem](https://github.com/cheffivem)
 
 - 🤝 I’m looking for help with [cWebsite](https://cheffivem.fr/)
 
