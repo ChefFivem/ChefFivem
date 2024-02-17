@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [cBot](https://github.com/cheffivem)
 
-- 🌱 I’m work in **Js | py | <.Html.></.Html.> | : css; | function Tsx{Tsx} | if Lua then | namespace C#:**
+- 🌱 I’m work in **Js | py | Html | css | Tsx | Lua | C#**
 
-- 👯 I’m currently working on [cFivem](https://github.com/cheffivem) and [cWebsite](https://github.com/ChefFivem)
+- 👯 I’m currently working on [Portfolio](https://cheffivem.fr/)
 
 - 👨‍💻 All of my projects are not available.
 
